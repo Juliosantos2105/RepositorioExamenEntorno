@@ -36,7 +36,7 @@ public class Main {
         /**
          * Inicializamos cuenta 1, de tipo CCuenta, y escribimos los diferentes atributos (nombre,cuenta,saldo,tipoInteres)
          */
-        cuenta1 = new CCuenta("Antonio López","1000-2365-85-1230456789",2500,0);
+        cuenta1 = new CCuenta("Antonio Lopez","1000-2365-85-1230456789",2500,0);
         
         /**
          * saldoActual es igual al metodo de mostrar el saldo, por lo que cada vez que llamemos a saldoActual
